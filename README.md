@@ -1,2 +1,2 @@
 # Pokemon-Cards
-<p>Add Pokemon Card Project</p>
+<p>Add New Project Pokemon Card</p>
